@@ -194,7 +194,7 @@ b. Determine los voltajes de fase.
 
 
       
-      **35. Para la figura 24-47, calcule las potencias real, reactiva y aparente con las fórmulas para PT, QT, y ST de la tabla 24-2. (Use VL  207.8 V en lugar del valor nominal de 208 V.) Compare sus resultados con los del problema 34.**
+ **35. Para la figura 24-47, calcule las potencias real, reactiva y aparente con las fórmulas para PT, QT, y ST de la tabla 24-2. (Use VL  207.8 V en lugar del valor nominal de 208 V.) Compare sus resultados con los del problema 34.**
 
 ![24 35](https://user-images.githubusercontent.com/84453557/132806763-f89bd2d3-04ea-4b05-82d7-1b91d45ddce0.png)
 
