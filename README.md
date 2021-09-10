@@ -6,24 +6,26 @@
 
 #### RESUMEN
 
------------
-----------
----------
+En el estudio del voltaje inducido en el capítulo 13 se encontró que el campo magnético cambiante producido por la corriente en una bobina provoca un voltaje
+en una segunda bobina devanada en el mismo núcleo. El dispositivo para utilizar este efecto es el transformador y es lo que se revizara en el capitulo 23, tambien se revizara sobre  el estudio los fundamentos de los transformadores y se analizan los circuitos que los contienen. Se estudia la acción de los transformadores, los
+tipos de ellos que existen, sus relaciones de voltaje y corriente, sus aplicaciones, etc. 
+En el capitulo 24 se consideran los sistemas de tres fases. Los sistemas trifásicos se usan para generar y transmitir potencia eléctrica. Todos los sistemas comerciales de potencia de ca, por ejemplo, son sistemas trifásicos. Tambien se observara que los sistemas trifásicos pueden ser balanceados o desbalanceados. Si un sistema está balanceado, se le puede analizar considerando sólo una de sus fases.
 
  #### OBJETIVO GENERAL
- * --------------
- ----------
+ 
+ * Aplicacion de formulas y desarrollo de ejericios de circuitos plateados para  corriente alterna y mejor entendimiento de cada tema de los capitulos a revizar para esta tarea
  
  
   #### OBJETIVOS ESPECÍFICOS
 
-* ----------------------------------
+* Estudiar la acción de los transformadores, los tipos de ellos que existen, sus relaciones de voltaje y corriente y sus aplicaciones.
 
-* ----------------------------------
+* Comprender los transformadores electricos y sus aplicaciones  mediante cada ejericio planteado.
 
-* --------------------------------
+* Estudiar los sistemas de tres fases y comprension de cuales son sus aplicaciones.
 
-* ------------------------------
+* Observar que los sistemas trifasicos puden ser balanceados y desbalanceados y comprender sus aplicaciones mediantes los ejericios planteados.
+
 
 # 2. MARCO TEÓRICO
 
@@ -545,13 +547,13 @@ b. Determine los voltajes de fase.
  # 5. CONCLUSIONES
  
 
-* ----------------------------------
+* Se pudieron aplicar las fórmulas y conocimientos aprendidos en clase mediante la resolución de los ejercicios propuestos.
 
-* ----------------------------------
+* Se pudo dominar el manejo de los transformadores y sus aplicaciones mediantes los ejericios resueltos.
 
-* --------------------------------
+* Se pudo comprende los sistemas trifasiscos al enteder la aplicacion y resolucion de sus formulas planteadas.
 
-* ------------------------------
+* Se pudo dominar en los circuitos vistos los sistemas balanceados y desbalanceados de los sistemas trifasicos planteados.
   
  # 6. BIBLIOGRAFÍA
 
@@ -559,11 +561,6 @@ b. Determine los voltajes de fase.
 * Robbins, A., & Oja, D. (s. f.). Analisis De Circuitos Electricos/ Circuit Analysis: Teoria Y Practica/ Theory and Practice (4 Pap/Cdr ed.) [Libro electrónico]. 
 
 * Recuperado de: https://www.academia.edu/20334884/Analisis_de_circuitos_Teoria_y_practica
-
-* -------------------------------------------------
-
-* --------------------------------------------------
-
 
 RUBRICA
 
