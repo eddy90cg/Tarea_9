@@ -31,7 +31,7 @@
 
   ## Transformadores y circuitos acoplados ##
 
-    ![]()
+    ![](https://github.com/eddy90cg/Tarea_9/blob/main/Imágenes/Mentefacto-Capítulo%2023.png)
     
 # V. Redes de Impedancia.-
 
