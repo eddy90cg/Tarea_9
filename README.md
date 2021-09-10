@@ -192,8 +192,88 @@ b. Determine los voltajes de fase.
 
 <img src="https://latex.codecogs.com/svg.latex?\begin{align*}&space;&\textrm{Para&space;$I_{c}$}\\&space;&I_c=\frac{V_{cn}}{Z_{cn}}=\frac{347\angle135^{\circ}}{12&plus;j9}=\frac{347\angle135^{\circ}}{15\angle36.87^{\circ}}=23.1A\angle98.1^{\circ}\\&space;\end{align*}" title="\begin{align*} &\textrm{Para $I_{c}$}\\ &I_c=\frac{V_{cn}}{Z_{cn}}=\frac{347\angle135^{\circ}}{12+j9}=\frac{347\angle135^{\circ}}{15\angle36.87^{\circ}}=23.1A\angle98.1^{\circ}\\ \end{align*}" />
 
+9. Una carga Y balanceada tiene una impedancia de Z_an=14.7 Ω ∠16°. Si V_cn=120 V ∠ 160° , determine todas las corrientes de línea.
 
-      
+![](https://github.com/eddy90cg/Tarea_9/blob/main/Im%C3%A1genes/9.png)
+
+11. Para el circuito de la figura 24-48, V_ab=1480 V ∠ 0°. Encuentre la fase y las corrientes de línea.
+
+![](https://github.com/eddy90cg/Tarea_9/blob/main/Im%C3%A1genes/11.1.png)
+
+![](https://github.com/eddy90cg/Tarea_9/blob/main/Im%C3%A1genes/11.2.png)
+
+![](https://github.com/eddy90cg/Tarea_9/blob/main/Im%C3%A1genes/11.3.png)
+
+13. Para el circuito de la figura 24-48, si I_ab=10 A ∠-21°, determine todos los voltajes de línea.
+
+![](https://github.com/eddy90cg/Tarea_9/blob/main/Im%C3%A1genes/13.png)
+
+15. Una carga Y balanceada tiene una impedancia de fase de 24Ω∠33° y un voltaje línea a línea de 600 V. Tome V_an como referencia y determine todas las corrientes de línea.
+
+![](https://github.com/eddy90cg/Tarea_9/blob/main/Im%C3%A1genes/15.png)
+
+17. a. Para cierta carga Y balanceada, V_ab=208 V ∠30°,  I_a=24 A ∠40° y f=60 Hz. Determine la carga (R y L o C). 
+
+![](https://github.com/eddy90cg/Tarea_9/blob/main/Im%C3%A1genes/17.1.png)
+
+![](https://github.com/eddy90cg/Tarea_9/blob/main/Im%C3%A1genes/17.2.png)
+
+![](https://github.com/eddy90cg/Tarea_9/blob/main/Im%C3%A1genes/17.3.png)
+
+19. Una carga ∆ balanceada a 60 Hz tiene una corriente de I_bc=4.5 A∠-85°. El voltaje de línea es de 240 volts y V_ab se toma como referencia. 
+
+![](https://github.com/eddy90cg/Tarea_9/blob/main/Im%C3%A1genes/19.1.png)
+
+![](https://github.com/eddy90cg/Tarea_9/blob/main/Im%C3%A1genes/19.2.png)
+
+21.Para la figura 24-49, V_an=120 V∠0°. Dibuje el equivalente de una sola fase y:
+
+![](https://github.com/eddy90cg/Tarea_9/blob/main/Im%C3%A1genes/21.1.png)
+
+![](https://github.com/eddy90cg/Tarea_9/blob/main/Im%C3%A1genes/21.2.png)
+
+23. Para la figura 24-48, E_AN=120 V ∠-10°. Encuentre la corriente de línea con el método equivalente de una sola fase
+
+![](https://github.com/eddy90cg/Tarea_9/blob/main/Im%C3%A1genes/23.1.png)
+
+![](https://github.com/eddy90cg/Tarea_9/blob/main/Im%C3%A1genes/23.2.png)
+
+25. Para la figura 24-48, suponga que las líneas tienen una impedancia Z_línea de 0.15 Ω+ j0.25 Ω y 〖E 〗_AN=120 V∠0°. Convierta la carga ∆ en Y y use el equivalente de una fase para encontrar las corrientes de línea.
+
+![](https://github.com/eddy90cg/Tarea_9/blob/main/Im%C3%A1genes/25.1.png)
+
+![](https://github.com/eddy90cg/Tarea_9/blob/main/Im%C3%A1genes/25.2.png)
+
+27. Para el circuito de la figura 24-49, suponga que Z_línea=0.15 Ω+ j0.25 Ω y V_ab=600 V∠30°. Determine E_AB.
+
+![](https://github.com/eddy90cg/Tarea_9/blob/main/Im%C3%A1genes/27.1.png)
+
+![](https://github.com/eddy90cg/Tarea_9/blob/main/Im%C3%A1genes/27.2.png)
+
+29. Los mismos datos que el problema 28 excepto que el voltaje de fase en la carga ∆ es V_a'b'=480 V∠30°. Encuentre el voltaje del generador E_AB, magnitud y ángulo.
+
+![](https://github.com/eddy90cg/Tarea_9/blob/main/Im%C3%A1genes/29.1.png)
+
+![](https://github.com/eddy90cg/Tarea_9/blob/main/Im%C3%A1genes/29.2.png)
+
+![](https://github.com/eddy90cg/Tarea_9/blob/main/Im%C3%A1genes/29.3.png)
+
+31. Para la figura 24-21(a), Z_Y=15Ω+j20 Ω,Z_∆=9Ω-j12Ω,Z_Línea=0.1 Ω+j0.1Ω,e I_(a^' b^' )=40 A ∠ 73.13° . Encuentre el voltaje de fase Y V_an, magnitud y ángulo.
+
+![](https://github.com/eddy90cg/Tarea_9/blob/main/Im%C3%A1genes/31.1.png)
+
+![](https://github.com/eddy90cg/Tarea_9/blob/main/Im%C3%A1genes/31.2.png)
+
+![](https://github.com/eddy90cg/Tarea_9/blob/main/Im%C3%A1genes/31.3.png)
+
+33. Repita el problema 32 para la carga balanceada de la figura 24-51, dado E_AN=120 V.
+
+![](https://github.com/eddy90cg/Tarea_9/blob/main/Im%C3%A1genes/33.1.png)
+
+![](https://github.com/eddy90cg/Tarea_9/blob/main/Im%C3%A1genes/33.2.png)
+
+![](https://github.com/eddy90cg/Tarea_9/blob/main/Im%C3%A1genes/33.3.png)
+  
  **35. Para la figura 24-47, calcule las potencias real, reactiva y aparente con las fórmulas para PT, QT, y ST de la tabla 24-2. (Use VL  207.8 V en lugar del valor nominal de 208 V.) Compare sus resultados con los del problema 34.**
 
 ![24 35](https://user-images.githubusercontent.com/84453557/132806763-f89bd2d3-04ea-4b05-82d7-1b91d45ddce0.png)
