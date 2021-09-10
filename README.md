@@ -583,7 +583,7 @@ b. Determine los voltajes de fase.
       
  # 4. VIDEO
 
-  * link del video
+https://youtu.be/Kmr520DuUmQ
   
  # 5. CONCLUSIONES
  
