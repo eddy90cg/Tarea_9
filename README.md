@@ -37,7 +37,7 @@
 
   ## Sistemas de tres fases ##
 
-    ![]()
+![](https://github.com/eddy90cg/Tarea_9/blob/main/Imágenes/Mentefacto-Capítulo%2024.png)
     
 # 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
   
